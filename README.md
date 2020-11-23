@@ -106,4 +106,16 @@ Chapter07   第6章 C控制语句：循环
     20. power.c                             ===> 计算数的整数幂
     
 Chapter07   第7章 C控制语句：分支和跳转
-
+    01. colddays.c                          ===> 找出 0℃ 以下的天数占总天数的百分比
+    02. cypher1.c                           ===> 更改输入，空格不变
+    03. cypher2.c                           ===> 替换输入的字母，非字母字符保持不变
+    04. electric.c                          ===> 计算电费
+    05. divisors.c                          ===> 使用嵌套 if 语句显示一个数的约数
+    06. chcount.c                           ===> 使用逻辑与运算符
+    07. wordcnt.c                           ===> 统计字符数、单词数、行数
+    08. paint.c                             ===> 使用条件运算符
+    09. skippart.c                          ===> 使用 continue 跳过部分循环
+    10. break.c                             ===> 使用 break 退出循环
+    11. animals.c                           ===> 使用 switch 语句
+    12. vowels.c                            ===> 使用多重标签
+    13. 
